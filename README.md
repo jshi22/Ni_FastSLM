@@ -8,8 +8,7 @@ correction of optical tweezers in the Ni lab.
 - `slm_notebook.ipynb` — Includes hardware initialisation,
   Fourier and wavefront calibration, Zernike mask generation, beam centering,
   and the aberration measurement routines.
-- `SLMSUITE_SETUP.md` — Installation, and the patches slmsuite needs before it
-  will run with this hardware. 
+- `SLMSUITE_SETUP.md` — Installation and required patches for slmsuite.
 
 ## Quick start
 
