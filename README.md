@@ -16,6 +16,5 @@ correction of optical tweezers in the Ni lab.
 2. `conda activate slm_env`
 3. Run the initialisation cell. It opens the SLM as a mirrored display, opens
    the camera, and loads the vendor phase correction.
-4. Display a blaze, change k, and confirm the first-order spot moves. If it does
-   not move, the display path is broken and nothing downstream will work.
+4. Quick check: display a blaze, change k, and confirm the first-order spot moves.
 
